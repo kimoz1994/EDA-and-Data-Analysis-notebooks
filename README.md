@@ -6,7 +6,7 @@ This repository showcases a collection of exploratory data analysis (EDA) and da
 
 | Notebook | Description |
 | --- | --- |
-| [European-Soccer-Analysis.ipynb](./European-Soccer-Analysis.ipynb) | EDA and analysis of European soccer data exploring team performance, home/away trends, and match statistics. |
+| [european-soccer-analysis.ipynb](./european-soccer-analysis.ipynb) | EDA and analysis of European soccer data exploring team performance, home/away trends, and match statistics. |
 | [Gross-Margin-Analysis.ipynb](./Gross-Margin-Analysis.ipynb) | Product-level profitability analysis examining gross margins to identify key drivers and opportunities. |
 | [Monthly-Sales-Seasonality-Modeling.ipynb](./Monthly-Sales-Seasonality-Modeling.ipynb) | Time series analysis and modeling to detect and forecast monthly sales seasonality patterns. |
 
